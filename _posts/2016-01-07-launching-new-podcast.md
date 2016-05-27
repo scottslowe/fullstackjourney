@@ -14,9 +14,9 @@ After quite a bit of deliberation and planning, I'm excited (and nervous!) to an
 
 _What topics does this new podcast cover?_
 
-The focus of The Full Stack Journey Podcast is to talk about the journey to becoming a full-stack engineer. That term is a bit of a loaded term---some people like it, some people don't, and there's some disagreement over exactly what it means. I use the term to describe someone who can work at multiple layers of the modern data center stack, crossing between different silos. This **isn't** to say that a full-stack engineer is an expert in all these areas, but it **does** mean that a full-stack engineer has at least some knowledge and experience in all these areas, with expertise and experience in at least one of them. The podcast aims to provide real, relevant, practical information at helping people with their "full-stack journey."
+The focus of The Full Stack Journey Podcast is to talk about the journey to becoming a full stack engineer. That term is a bit of a loaded term---some people like it, some people don't, and there's some disagreement over exactly what it means. I use the term to describe someone who can work at multiple layers of the modern data center stack, crossing between different silos. This **isn't** to say that a full stack engineer is an expert in all these areas, but it **does** mean that a full stack engineer has at least some knowledge and experience in all these areas, with expertise and experience in at least one of them. The podcast aims to provide real, relevant, practical information at helping people with their "full stack journey."
 
-_Why is the idea of becoming a full-stack engineer important enough to warrant launching a podcast?_
+_Why is the idea of becoming a full stack engineer important enough to warrant launching a podcast?_
 
 I strongly believe the future of the infrastructure engineer does **not** lie in being an expert in just one area. The days of the IT pro who is only a storage expert, only an OS/hypervisor expert, or only a networking expert are, I believe, numbered. To remain relevant and valuable in today's fast-paced and quickly-changing environment, infrastructure engineers need to do three things:
 
@@ -24,7 +24,7 @@ I strongly believe the future of the infrastructure engineer does **not** lie in
 2. Move "up the stack" to embrace orchestration and automation
 3. Become more aware of applications and the business---it's not just about infrastructure.
 
-These three things, I think, dovetail very nicely with my view of a full-stack engineer, and I think that a podcast dedicated to helping IT professionals start a journey toward being a full-stack engineer will be helpful.
+These three things, I think, dovetail very nicely with my view of a full stack engineer, and I think that a podcast dedicated to helping IT professionals start a journey toward being a full stack engineer will be helpful.
 
 _How is this different than other podcasts?_
 

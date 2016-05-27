@@ -18,16 +18,16 @@ tags:
 - Windows
 ---
 
-In Episode #3 of the Full Stack Journey podcast, I have the pleasure of speaking with none other than Jonathan Frappier. Jonathan blogs at [VirtXpert][link-1], and is probably quite well-known for his role in wrangling speakers for [the vBrownBag podcasts][link-4]. Jonathan is [@jfrappier][link-2] on Twitter, and uses [the same username on GitHub][link-3] as well. Jonathan's been in the IT industry for, as he puts it, "somewhere between 16 and 20 years." Today, Jonathan and I talk about PowerCLI and leveraging the rest of your team at work to help with your success in making the journey to being a full-stack engineer.
+In Episode #3 of the Full Stack Journey podcast, I have the pleasure of speaking with none other than Jonathan Frappier. Jonathan blogs at [VirtXpert][link-1], and is probably quite well-known for his role in wrangling speakers for [the vBrownBag podcasts][link-4]. Jonathan is [@jfrappier][link-2] on Twitter, and uses [the same username on GitHub][link-3] as well. Jonathan's been in the IT industry for, as he puts it, "somewhere between 16 and 20 years." Today, Jonathan and I talk about PowerCLI and leveraging the rest of your team at work to help with your success in making the journey to being a full stack engineer.
 
 As with previous episodes, you can get the podcast recording [from Soundcloud][link-5], or you can [subscribe via iTunes][link-6].
 
 ## Show Notes
 
 * Jonathan has held a variety of roles in his IT career; he started out as a computer room operator
-* He believes a full-stack engineer is a bit more than just a generalist
-* In his mind, a full-stack engineer is someone who doesn't punt the issue off to someone else. Instead, a full-stack engineer is someone who is willing to help, who knows when to go ask for help (and who to go ask), and recognizes that no one person can know everything.
-* Willingness and a desire to learn are the marks of a full-stack engineer
+* He believes a full stack engineer is a bit more than just a generalist
+* In his mind, a full stack engineer is someone who doesn't punt the issue off to someone else. Instead, a full stack engineer is someone who is willing to help, who knows when to go ask for help (and who to go ask), and recognizes that no one person can know everything.
+* Willingness and a desire to learn are the marks of a full stack engineer
 * Jonathan's journey to being "more" than just an admin started out with "hacking" together [PowerCLI][link-7] scripts to help do his everyday job.
 * It seemed to Jonathan that supporting virtualization and public cloud environments was the direction to head, and he needed to get a better grasp on software development. PowerCLI was a natural first step for him.
 * Syntax learning was his first hurdle.

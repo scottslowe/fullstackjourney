@@ -10,7 +10,7 @@ block: "no"
 duration: "52:38"
 length: "25990440"
 file: fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-001.mp3
-excerpt: In this episode of the Full Stack Journey Podcast, Scott talks to Bart Smith about his journey toward what he calls a "cloud-native" full-stack engineer, and gathers some useful tips and resources for listeners.
+excerpt: In this episode of the Full Stack Journey Podcast, Scott talks to Bart Smith about his journey toward what he calls a "cloud-native" full stack engineer, and gathers some useful tips and resources for listeners.
 tags:
 - Career
 - Cloud
@@ -19,15 +19,15 @@ tags:
 - AWS
 ---
 
-In this first-ever episode of the Full Stack Journey podcast, I talk with Bart Smith ([old GitHub account][link-1] migrating to [new GitHub account][link-2], [YouTube channel][link-3]). Bart shares some details about his journey from being a Microsoft-centric infrastructure engineer to what he calls a cloud-native full-stack engineer. Here are some notes from our conversation, along with some additional resources Bart wanted to share with readers/listeners. Enjoy!
+In this first-ever episode of the Full Stack Journey podcast, I talk with Bart Smith ([old GitHub account][link-1] migrating to [new GitHub account][link-2], [YouTube channel][link-3]). Bart shares some details about his journey from being a Microsoft-centric infrastructure engineer to what he calls a cloud-native full stack engineer. Here are some notes from our conversation, along with some additional resources Bart wanted to share with readers/listeners. Enjoy!
 
 The podcast audio recording is [available on Soundcloud][link-32].
 
 ## Show Notes
 
 * His journey started in June 2014 as a result of the Microsoft announcement regarding support for Linux and Kubernetes on Azure---this really indicated a shift in the industry.
-* Bart's view is that a full-stack engineer knows about operations, the hardware stack (compute, storage, network), the software (network, operating system [OS], management, logging), and most importantly knows how to "code" an immutable infrastructure. An operations full-stack engineer can read code, work with developers, and be part of a DevOps team of support DevOps teams in deploying code into production both to on-premises solutions and off-premises solutions.
-* IT folks don't need to be strictly involved in software engineering to benefit from a journey toward a more full-stack role.
+* Bart's view is that a full stack engineer knows about operations, the hardware stack (compute, storage, network), the software (network, operating system [OS], management, logging), and most importantly knows how to "code" an immutable infrastructure. An operations full stack engineer can read code, work with developers, and be part of a DevOps team of support DevOps teams in deploying code into production both to on-premises solutions and off-premises solutions.
+* IT folks don't need to be strictly involved in software engineering to benefit from a journey toward a more full stack role.
 * His journey from Microsoft-centric engineer to cloud-native engineer encompasses learning the following areas:
     - Getting a good understanding of microservices (recommends book _Building Microservices_ by Sam Newman; [here's a link][link-5])
     - Container technologies ([Docker][link-15], most notably, but also [CoreOS][link-16] and [etcd][link-17]); recommends [this Docker course][link-4]
