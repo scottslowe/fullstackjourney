@@ -7,10 +7,10 @@ title: "Full Stack Journey Episode #004: Brent Salisbury"
 categories: Episode
 explicit: "no"
 block: "no"
-duration: "mm:ss"
-length: XYZ
+duration: "53:56"
+length: "28212447"
 file: fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-004.mp3
-excerpt: 
+excerpt: Episode 4 of the Full Stack Journey Podcast brings Brent Salisbury to the show, sharing lessons learned during his transitions from network engineer to Java developer and then on to Docker networking contributor.
 tags:
 - Networking
 - Docker
