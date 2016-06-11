@@ -7,8 +7,8 @@ title: "Full Stack Journey Episode #005: Patrick Kelso"
 categories: Episode
 explicit: "no"
 block: "no"
-duration: "53:56"
-length: "28212447"
+duration: "44:12"
+length: "23529565"
 file: fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-005.mp3
 excerpt: Episode 5 features Patrick Kelso, a former storage/NAS guy who embraced "infrastructure as code" and similar technologies and methods during a couple transitions in his career.
 tags:
