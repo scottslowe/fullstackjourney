@@ -58,6 +58,9 @@ You can [download][link-4] the MP3 recording of the podcast, or simply [subscrib
 * Brent's keen on "cherry picking" the best parts of SDN---automation, integration with orchestration, provisioning---and applying those parts in a safe manner, at massive scale, in a way lots of people can benefit.
 * IPVLAN drivers are available (if you'd like to test them) in the experimental builds for Docker Engine.
 
+## Additional Resources
+
+[DevOps Networking Forum 2016][link-11]
 
 
 [link-1]: https://twitter.com/networkstatic
@@ -70,3 +73,4 @@ You can [download][link-4] the MP3 recording of the podcast, or simply [subscrib
 [link-8]: http://www.ipspace.net/Main_Page
 [link-9]: https://github.com/
 [link-10]: https://www.python.org/
+[link-11]: https://www.youtube.com/playlist?list=PLGeM09tlguZRmQIO-K2tseTDCMcVxy17Y
