@@ -21,11 +21,13 @@ tags:
 
 Continuing in our series of episodes focusing on particular technologies within the broader journey to being a full stack engineer, episode #8 features Ivan Pepelnjak, well-known author, [blogger][link-1], [podcaster][link-2], and speaker. Ivan produces a phenomenal amount of content around networking and adjacent technologies (check it out [here][link-3]), and is active [on Twitter][link-4] as well.
 
-As always, you can get the podcast [via iTunes][link-14], or you can [download the MP3 file directly][link-15]. Enjoy!
+As always, you can get the podcast [via iTunes][link-14], or you can [download the MP3 file directly][link-15]. You can also listen to the podcast directly in your browser using the controls below (assuming your browser supports HTML5 audio):
 
 <audio controls>
   <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-008.mp3" type="audio/mpeg">
 If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
+
+Enjoy!
 
 ## Show Notes
 
