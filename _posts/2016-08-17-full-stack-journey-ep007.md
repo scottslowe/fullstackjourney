@@ -18,7 +18,13 @@ tags:
 
 Episode #7 is the first in a series of episodes focusing more on specific areas within a broader journey to being a full stack engineer. The guest for this episode is Ed Horley ([@ehorley][link-3] on Twitter), who leads the cloud practice team for a VAR in the Silicon Valley/Bay area of California. Ed may better be known as the "crazy IPv6 dude" but today he's on the podcast talking about business awareness and managerial aspects, and what that means for someone's full stack journey. Ed has [his own blog][link-2], and also [blogs about IPv6 at the InfoBlox community site][link-1].
 
-There are some audio quality issues at around 41-42 minutes of the podcast recording that I couldn't, unfortunately, edit out. Sorry about that!
+You can get episode 7 [via iTunes][link-4], or you can [download the MP3 file directly][link-5]. You can also listen to the podcast directly in your browser using the controls below (assuming your browser supports HTML5 audio):
+
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-007.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
+
+There are some audio quality issues at around 41-42 minutes of the podcast recording that I couldn't, unfortunately, edit out. I'm sorry about that, but I hope you enjoy the episode nevertheless.
 
 ## Show Notes
 
@@ -54,3 +60,5 @@ There are some audio quality issues at around 41-42 minutes of the podcast recor
 [link-1]: https://community.infoblox.com/t5/user/viewprofilepage/user-id/20824
 [link-2]: http://www.howfunky.com/
 [link-3]: https://twitter.com/ehorley
+[link-4]: https://itunes.apple.com/us/podcast/the-full-stack-journey/id1073172158?mt=2
+[link-5]: http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-007.mp3
