@@ -23,6 +23,10 @@ Continuing in our series of episodes focusing on particular technologies within 
 
 As always, you can get the podcast [via iTunes][link-14], or you can [download the MP3 file directly][link-15]. Enjoy!
 
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-008.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
+
 ## Show Notes
 
 * While there is value in talking about T-shaped skills, I-shaped skills, and Pi-shaped skills (see [this article][link-5] for a brief explanation of some of these terms, which may be new to you; Pi-shaped skills are like T-shaped but with an additional "leg" or area of expertise), Ivan believes it's really about being able to communicate with colleagues who are "right and left" of you (adjacent to your current role).
