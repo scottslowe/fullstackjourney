@@ -21,7 +21,11 @@ tags:
 
 In Episode #2 of the Full Stack Journey podcast, my guest is none other than Matt Oswalt. You may know Matt as the primary author at [Keeping It Classless][link-1], or as @mierdin on [Twitter][link-3] or [GitHub][link-4] (he also has [a YouTube channel][link-2] and [a podcast of his own][link-22]). Matt is primarily focused on network infrastructure, but is really interested in the intersection of network infrastructure and software development. Matt, along with Jason Edelman and yours truly, is one of the co-authors of [a new book on network automation and programmability][xref-1], and as such is a perfect guest for the Full Stack Journey.
 
-As always, you can get the podcast recording [from Soundcloud][link-23], or you can [subscribe via iTunes][link-24].
+As always, you can get the podcast recording [from S3][link-23], or you can [subscribe via iTunes][link-24]. Browsers supporting HTML5 audio can play the podcast episode using the controls below:
+
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-002.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
 
 In other show updates, I hope to have a dedicated web site for the Full Stack Journey podcast up and running by the beginning of March, in time for the next episode. So stay tuned for more details on that!
 
@@ -89,6 +93,6 @@ _The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_ v
 [link-20]: https://github.com/ktbyers
 [link-21]: http://kubernetes.io/
 [link-22]: http://classcblock.com/
-[link-23]: https://soundcloud.com/fullstackjourney
+[link-23]: http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-002.mp3
 [link-24]: https://itunes.apple.com/us/podcast/full-stack-journey/id1073172158?mt=2
 [xref-1]: http://blog.scottlowe.org/2015/12/28/next-gen-network-engineering-skills

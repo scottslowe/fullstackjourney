@@ -19,7 +19,11 @@ tags:
 
 This month's guest on Episode #4 of the Full Stack Journey Podcast is none other than Brent Salisbury, aka [@networkstatic on Twitter][link-1]. Brent is a long-time [blogger][link-2], and is active [on GitHub][link-3] as well. Of course, his activity on GitHub should not be surprising, since Brent works for Docker, Inc., on the networking side of the open source Docker project (libnetwork). As someone who made the transition from full-time network administrator/network engineer to software developer, Brent is ideally suited to share some knowledge with listeners of the podcast.
 
-You can [download][link-4] the MP3 recording of the podcast, or simply [subscribe via iTunes][link-5].
+You can [download][link-4] the MP3 recording of the podcast, or simply [subscribe via iTunes][link-5]. If your browser supports HTML5 audio, you can also listen the podcast here:
+
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-004.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
 
 ## Show Notes
 

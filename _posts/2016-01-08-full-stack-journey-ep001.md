@@ -19,9 +19,17 @@ tags:
 - AWS
 ---
 
-In this first-ever episode of the Full Stack Journey podcast, I talk with Bart Smith ([old GitHub account][link-1] migrating to [new GitHub account][link-2], [YouTube channel][link-3]). Bart shares some details about his journey from being a Microsoft-centric infrastructure engineer to what he calls a cloud-native full stack engineer. Here are some notes from our conversation, along with some additional resources Bart wanted to share with readers/listeners. Enjoy!
+In this first-ever episode of the Full Stack Journey podcast, I talk with Bart Smith ([old GitHub account][link-1] migrating to [new GitHub account][link-2], [YouTube channel][link-3]). Bart shares some details about his journey from being a Microsoft-centric infrastructure engineer to what he calls a cloud-native full stack engineer.
 
-The podcast audio recording is [available on Soundcloud][link-32].
+The podcast audio recording is available [directly from S3][link-32]. However, it's probably better just to subscribe to the podcast [via iTunes][link-33].
+
+If your browser supports HTML5 audio, the controls below will allow you to play the podcast episode.
+
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-001.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
+
+Below are some notes from our conversation, along with some additional resources Bart wanted to share with readers/listeners. Enjoy!
 
 ## Show Notes
 
@@ -103,4 +111,5 @@ Why are computers so @#!*, and what can we do about it?: [https://media.ccc.de/v
 [link-29]: http://www.microsoft.com/en-us/
 [link-30]: http://www.vmware.com/
 [link-31]: http://devopsenterprise.io
-[link-32]: https://soundcloud.com/fullstackjourney/full-stack-journey-episode-001
+[link-32]: http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-001.mp3
+[link-33]: https://itunes.apple.com/us/podcast/the-full-stack-journey/id1073172158?mt=2

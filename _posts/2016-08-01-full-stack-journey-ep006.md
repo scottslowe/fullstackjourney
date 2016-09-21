@@ -15,7 +15,11 @@ tags:
 - Review
 ---
 
-Episode 6 is a bit different than the previous 5 episodes. There's no guest on this episode; it's just me (Scott, the host) talking about what was shared in the first five episodes, and reflecting on what this means. What was the conclusion? Sorry, no spoilers here---you'll have to listen to the episode (available [via iTunes][link-1] or [downloadable directly from S3][link-2]) for all the details.
+Episode 6 is a bit different than the previous 5 episodes. There's no guest on this episode; it's just me (Scott, the host) talking about what was shared in the first five episodes, and reflecting on what this means. What was the conclusion? Sorry, no spoilers here---you'll have to listen to the episode (available [via iTunes][link-1] or [downloadable directly from S3][link-2]) for all the details. If your browser support HTML5 audio, you can also listen to the podcast directly in your browser:
+
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-006.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
 
 Thanks for listening!
 

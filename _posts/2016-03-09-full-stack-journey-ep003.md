@@ -20,7 +20,11 @@ tags:
 
 In Episode #3 of the Full Stack Journey podcast, I have the pleasure of speaking with none other than Jonathan Frappier. Jonathan blogs at [VirtXpert][link-1], and is probably quite well-known for his role in wrangling speakers for [the vBrownBag podcasts][link-4]. Jonathan is [@jfrappier][link-2] on Twitter, and uses [the same username on GitHub][link-3] as well. Jonathan's been in the IT industry for, as he puts it, "somewhere between 16 and 20 years." Today, Jonathan and I talk about PowerCLI and leveraging the rest of your team at work to help with your success in making the journey to being a full stack engineer.
 
-As with previous episodes, you can get the podcast recording [from Soundcloud][link-5], or you can [subscribe via iTunes][link-6].
+As with previous episodes, you can get the podcast recording [from S3][link-5], or you can [subscribe via iTunes][link-6]. Browsers that support HTML5 will display a set of controls below that allow you to listen the podcast in your browser as well.
+
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-003.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
 
 ## Show Notes
 
@@ -60,7 +64,7 @@ As with previous episodes, you can get the podcast recording [from Soundcloud][l
 [link-2]: https://twitter.com/jfrappier
 [link-3]: https://github.com/jfrappier
 [link-4]: http://professionalvmware.com/brownbags/
-[link-5]: https://soundcloud.com/fullstackjourney
+[link-5]: http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-003.mp3
 [link-6]: https://itunes.apple.com/us/podcast/full-stack-journey/id1073172158?mt=2
 [link-7]: https://en.wikipedia.org/wiki/PowerCLI
 [link-8]: http://www.pluralsight.com/

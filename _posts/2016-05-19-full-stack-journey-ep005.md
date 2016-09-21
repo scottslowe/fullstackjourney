@@ -23,6 +23,12 @@ tags:
 
 Episode #5 of the Full Stack Journey Podcast features Patrick Kelso, an independent consultant based in Australia. (Patrick is [patrickkelso on GitHub][link-1] and [on Twitter][link-13].) He works predominantly in the UNIX/virtualization/cloud space. He spent quite a number of years at EMC, then branched out and made the move to [Puppet][link-3]. Since then, he's started working on his own. Patrick is based on Sydney, Australia.
 
+This episode of the podcast is available [from iTunes][link-15], or you can [download the MP3 file directly][link-16]. If your browser supports HTML5 audio, you can also listen to the podcast directly in your browser:
+
+<audio controls>
+  <source src="http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-005.mp3" type="audio/mpeg">
+If you're seeing this message, your browser does not support HTML5 audio elements.</audio>
+
 ## Show Notes
 
 * Patrick's view of a full stack engineer is similar to my own---an engineer who's comfortable working across multiple technology domains. A full stack engineer doesn't restrict himself or herself to one silo; instead, they understand multiple silos: networking, APIs, automation, etc.
@@ -90,3 +96,5 @@ Patrick's ["DevOps Workflows" repository][link-14]
 [link-12]: https://www.amazon.com/Little-Book-Talent-Improving-Skills/dp/034553025X/ref=sr_1_1?ie=UTF8&qid=1465597027&sr=8-1&keywords=little+book+of+talent+daniel+coyle
 [link-13]: https://twitter.com/patrickkelso
 [link-14]: https://github.com/patrickkelso/devops-workflows
+[link-15]: https://itunes.apple.com/us/podcast/the-full-stack-journey/id1073172158?mt=2
+[link-16]: http://fullstackjourney.s3.amazonaws.com/full-stack-journey-episode-005.mp3
